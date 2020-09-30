@@ -1,2 +1,2 @@
 # IWork
-Mini Employment website using SQL ASP.NET and HTML
+Mini Employment website developed using SQL ASP.NET and HTML
